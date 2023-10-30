@@ -11,5 +11,3 @@ The app follows the MVI (Model-View-Intent) architecture, ensuring a unidirectio
 - **Retrofit**: For handling network requests in a type-safe manner.
 - **Navigation Graphs**: To manage app navigation and simplify the implementation of transitions between screens.
 - **Camera 2 API**: For accessing and controlling camera hardware features, allowing users to take pictures for their profile.
-
-The application focuses on providing a straightforward and effective user experience for creating and managing a personal profile.
